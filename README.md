@@ -1,5 +1,5 @@
 # Tsee_Drugs
-Skrypt na narkotyki kokaine oraz marihuane, autorski skrypt
+Skrypt na narkotyki kokaine oraz marihuane, przerobiony esx_drugs
 
 - Robienie marihuany ma 3 etapy
 | Zbieranie 
